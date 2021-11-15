@@ -86,6 +86,7 @@ table:hover {
 
   li {
     color: antiquewhite;
+    margin: 4vh 4vw;
   }
 
   li:hover {
@@ -99,7 +100,7 @@ table:hover {
 
 a:hover {
   color: rgb(95, 255, 188);
-  text-decoration: overline;
+  text-decoration: none;
 }
 
 body {
